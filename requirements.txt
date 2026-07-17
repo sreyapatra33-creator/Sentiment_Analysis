@@ -3,10 +3,16 @@ pandas
 numpy
 
 # Machine Learning
-scikit-learn==1.9.0joblib
+scikit-learn==1.9.0
+joblib
 
 # Streamlit App
 streamlit
+
+
+## Deep Learning Model
+tensorflow==2.21.0
+nltk
 
 # Visualization (for notebooks)
 matplotlib
