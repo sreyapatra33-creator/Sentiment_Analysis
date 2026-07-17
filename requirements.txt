@@ -9,10 +9,9 @@ joblib
 # Streamlit App
 streamlit
 
-
-## Deep Learning Model
+# deeplearning
 tensorflow==2.21.0
-nltk
+
 
 # Visualization (for notebooks)
 matplotlib
