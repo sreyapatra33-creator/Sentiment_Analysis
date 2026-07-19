@@ -17,6 +17,8 @@ The application classifies text into one of the following sentiment categories:
 The project also includes a **Streamlit web application** that allows users to enter text, choose a model, and predict the sentiment.
 
 ---
+# Project URL
+[https://sentimentanalysis-gxrwldkf86yl2snlugne5m.streamlit.app/](https://sentimentanalysis-gxrwldkf86yl2snlugne5m.streamlit.app/)
 
 ## 🚀 Features
 
