@@ -52,9 +52,9 @@ The project also includes a **Streamlit web application** that allows users to e
 ```
 Sentiment-Analysis-App/
 │
-├── app.py
+├── main.py
 ├── requirements.txt
-├── README.md
+├── README.md.txt
 │
 ├── RNN.keras
 ├── LSTM.keras
@@ -63,7 +63,7 @@ Sentiment-Analysis-App/
 ├── tokenizer.pkl
 ├── label_encoder.pkl
 │
-└── dataset.csv
+└── Twitter_Data.csv
 ```
 
 ---
